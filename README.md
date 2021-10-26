@@ -12,7 +12,7 @@ This project is a simple image editing application. It is not designed for photo
 
 
 <p align="center">
-  <img src="./images/looklike.png" width="600" height='400'/>
+  <img src="./images/looklike.png" width="700" height='400'/>
 </p>
 
 ## Technologies
